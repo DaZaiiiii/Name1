@@ -1,0 +1,16 @@
+C:\Users\aniwo\source\repos\Inf\Inf\bin\Debug\net5.0\Inf.exe
+C:\Users\aniwo\source\repos\Inf\Inf\bin\Debug\net5.0\Inf.deps.json
+C:\Users\aniwo\source\repos\Inf\Inf\bin\Debug\net5.0\Inf.runtimeconfig.json
+C:\Users\aniwo\source\repos\Inf\Inf\bin\Debug\net5.0\Inf.runtimeconfig.dev.json
+C:\Users\aniwo\source\repos\Inf\Inf\bin\Debug\net5.0\Inf.dll
+C:\Users\aniwo\source\repos\Inf\Inf\bin\Debug\net5.0\ref\Inf.dll
+C:\Users\aniwo\source\repos\Inf\Inf\bin\Debug\net5.0\Inf.pdb
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\Inf.csproj.AssemblyReference.cache
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\Inf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\Inf.AssemblyInfoInputs.cache
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\Inf.AssemblyInfo.cs
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\Inf.csproj.CoreCompileInputs.cache
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\Inf.dll
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\ref\Inf.dll
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\Inf.pdb
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\net5.0\Inf.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\netcoreapp3.1\Inf.csproj.AssemblyReference.cache
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\netcoreapp3.1\Inf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\netcoreapp3.1\Inf.AssemblyInfoInputs.cache
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\netcoreapp3.1\Inf.AssemblyInfo.cs
+C:\Users\aniwo\source\repos\Inf\Inf\obj\Debug\netcoreapp3.1\Inf.csproj.CoreCompileInputs.cache
